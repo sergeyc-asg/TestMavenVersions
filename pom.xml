@@ -10,7 +10,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/sergeyc-asg/TestMavenVersions.git</developerConnection>
-        <tag>HEAD</tag>
     </scm>
 
     <build>
